@@ -28,6 +28,12 @@ h2 {
   background-color:mediumslateblue;
 }
 
+#about_pink {
+  border:3px dashed black;
+  padding:10px;
+  background-color:pink;
+}
+
 #about_blue ul {
   color:blue;
 }
