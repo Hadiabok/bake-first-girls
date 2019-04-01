@@ -1,0 +1,74 @@
+
+h1 {
+  font-family:monospace;
+  padding-left:30px;
+}
+
+p {
+  font-family:monospace;
+  padding-left:30px;
+
+ }
+
+ul {
+  font-family:monospace;
+  padding-bottom: 5px;
+  padding-left: 30px;
+
+}
+
+
+h2 {
+  font-family:monospace;
+}
+
+#about_blue {
+  border:3px dashed black;
+  padding:10px;
+  background-color:mediumslateblue;
+}
+
+#about_blue ul {
+  color:blue;
+}
+
+.important {
+  font-family:Garamond;
+  font-weight:bold;
+}
+
+
+#about_yellow {
+  border:3px solid black;
+  padding:10px;
+  background-color:#FFA500;
+}
+
+#about_yellow ul {
+  color:mediumvioletred;
+  font-family:monospace;
+}
+
+.color-info {
+  margin:10px;
+  border:10px solid black;
+}
+ul.nav a {
+  padding:10px;
+  color:white;
+}
+
+ul.nav a:visited{
+  color:pink
+}
+
+ul.nav a:active{
+  color:blue;
+}
+
+ul.nav a:hover{
+  color:green;
+}
+#carouselExampleSlidesOnly {
+  size:100px;
+}
