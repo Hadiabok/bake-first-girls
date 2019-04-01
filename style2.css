@@ -72,3 +72,7 @@ ul.nav a:hover{
 #carouselExampleSlidesOnly {
   size:100px;
 }
+
+modal-body{
+  color:pink;
+}
