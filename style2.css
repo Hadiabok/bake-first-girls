@@ -69,3 +69,6 @@ ul.nav a:active{
 ul.nav a:hover{
   color:green;
 }
+#carouselExampleSlidesOnly {
+  size:100px;
+}
