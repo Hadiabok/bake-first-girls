@@ -37,9 +37,6 @@ h2 {
   font-weight:bold;
 }
 
-ul.nav li{
-  background-color:red;
-}
 
 #about_yellow {
   border:3px solid black;
@@ -57,6 +54,7 @@ ul.nav li{
   border:10px solid black;
 }
 ul.nav a {
+  padding:10px;
   color:white;
 }
 
