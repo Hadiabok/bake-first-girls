@@ -4,6 +4,10 @@ h1 {
   padding-left:30px;
 }
 
+body {
+  background-color: rgb(132, 255, 247);
+  }
+
 p {
   font-family:monospace;
   padding-left:30px;
@@ -77,4 +81,11 @@ ul.nav a:hover{
 }
 #carouselExampleSlidesOnly {
   size:100px;
+}
+
+modal-body{
+  color:pink;
+}
+button {
+  padding:10px;
 }
